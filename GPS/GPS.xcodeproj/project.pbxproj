@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		809A27652321F70C00D88D2D /* GPS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GPS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		809A27652321F70C00D88D2D /* 修改定位.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "修改定位.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		809A27682321F70C00D88D2D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		809A27692321F70C00D88D2D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		809A276B2321F70C00D88D2D /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		809A27662321F70C00D88D2D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				809A27652321F70C00D88D2D /* GPS.app */,
+				809A27652321F70C00D88D2D /* 修改定位.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -90,7 +90,7 @@
 			);
 			name = GPS;
 			productName = GPS;
-			productReference = 809A27652321F70C00D88D2D /* GPS.app */;
+			productReference = 809A27652321F70C00D88D2D /* 修改定位.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -295,7 +295,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = csh.GPS;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "修改定位";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -312,7 +312,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = csh.GPS;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "修改定位";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
