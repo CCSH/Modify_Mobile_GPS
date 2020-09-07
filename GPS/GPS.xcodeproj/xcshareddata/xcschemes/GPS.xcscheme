@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "809A27642321F70C00D88D2D"
-               BuildableName = "GPS.app"
+               BuildableName = "&#x4fee;&#x6539;&#x5b9a;&#x4f4d;.app"
                BlueprintName = "GPS"
                ReferencedContainer = "container:GPS.xcodeproj">
             </BuildableReference>
@@ -27,19 +27,17 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
-      <Testables>
-      </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "809A27642321F70C00D88D2D"
-            BuildableName = "GPS.app"
+            BuildableName = "&#x4fee;&#x6539;&#x5b9a;&#x4f4d;.app"
             BlueprintName = "GPS"
             ReferencedContainer = "container:GPS.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
+      <Testables>
+      </Testables>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -56,13 +54,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "809A27642321F70C00D88D2D"
-            BuildableName = "GPS.app"
+            BuildableName = "&#x4fee;&#x6539;&#x5b9a;&#x4f4d;.app"
             BlueprintName = "GPS"
             ReferencedContainer = "container:GPS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <AdditionalOptions>
-      </AdditionalOptions>
       <LocationScenarioReference
          identifier = "../../GPS/Location.gpx"
          referenceType = "0">
@@ -79,7 +75,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "809A27642321F70C00D88D2D"
-            BuildableName = "GPS.app"
+            BuildableName = "&#x4fee;&#x6539;&#x5b9a;&#x4f4d;.app"
             BlueprintName = "GPS"
             ReferencedContainer = "container:GPS.xcodeproj">
          </BuildableReference>
