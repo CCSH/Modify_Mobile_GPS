@@ -1,15 +1,12 @@
 <?xml version="1.0"?>
 <gpx version="1.1" creator="Xcode" >
         <!--
-         高德坐标 https://lbs.amap.com/console/show/picker
+        https://tool.lu/coordinate/
          -->
         <!--
-         高德坐标转wgs84 http://www.dituwa.com/tool/gpxaxes
-         -->
-        <!--
-        下方需要wgs84坐标 不是的需要转换
+        下方需要wgs84坐标 不是的需要转换，运行了在后台锁屏卡掉应用，就是永久了（重启可以恢复，或者在运行一遍正常退出）
         -->
-        <wpt lon="126.67579780" lat="45.76521636">
+        <wpt lon="116.39375594021683" lat="39.908596030141716">
     </wpt>
     
 </gpx>
